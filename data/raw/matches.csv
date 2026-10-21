@@ -1,0 +1,32 @@
+match_id,date,home_team,away_team,home_goals,away_goals
+1,2026-08-08,Vitoria SC,Porto,1,1
+2,2026-08-08,Porto,Benfica,2,0
+3,2026-08-08,Braga,Benfica,2,2
+4,2026-08-15,Famalicao,Vitoria SC,1,0
+5,2026-08-15,Porto,Braga,1,1
+6,2026-08-15,Famalicao,Braga,1,0
+7,2026-08-22,Porto,Famalicao,2,1
+8,2026-08-22,Benfica,Porto,4,2
+9,2026-08-22,Sporting,Vitoria SC,1,2
+10,2026-08-29,Porto,Vitoria SC,3,1
+11,2026-08-29,Famalicao,Sporting,3,0
+12,2026-08-29,Vitoria SC,Sporting,4,2
+13,2026-09-05,Famalicao,Porto,1,0
+14,2026-09-05,Sporting,Famalicao,0,1
+15,2026-09-05,Vitoria SC,Braga,0,1
+16,2026-09-12,Vitoria SC,Famalicao,0,0
+17,2026-09-12,Braga,Famalicao,4,0
+18,2026-09-12,Porto,Sporting,3,0
+18,2026-09-12,Porto,Sporting,3,0
+19,2026-09-19,Braga,Porto,0,0
+20,2026-09-19,Famalicao,Benfica,1,0
+21,2026-09-19,Braga,Vitoria SC,0,0
+22,2026-09-26,sporting ,Porto,3,2
+23,2026-09-26,Benfica,Vitoria SC,0,4
+24,2026-09-26,Braga,Sporting,1,1
+25,2026-10-03,Benfica,Braga,0,0
+26,2026-10-03,Benfica,Sporting,,
+27,2026-10-03,Vitoria SC,Benfica,0,0
+28,2026-10-10,Sporting,Braga,0,0
+29,2026-10-10,Benfica,Famalicao,0,2
+30,2026-10-10,Sporting,Benfica,1,1
